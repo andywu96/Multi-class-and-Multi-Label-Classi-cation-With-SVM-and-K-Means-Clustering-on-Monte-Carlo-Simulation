@@ -35,3 +35,6 @@ This is one of the HW assignment at USC, there are 2 quesitons.
 
 ## K-Means Clustering
 ![data_science](K-Means.jpg)
+
+## SVM -Gaussian kernels
+![data_science](SVM_RBF.jpg)
